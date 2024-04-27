@@ -1,5 +1,17 @@
 ###
 
+<h2 align="center">Olá! Seja bem vindo ao meu perfil!</h2>
+
+###
+
+<p align="center">
+  <strong>Histórico de contribuições e outras informações</strong>
+</p>
+
+
+
+###
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josu-liveira&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josu-liveira&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" />
@@ -9,7 +21,7 @@
 
 ###
  
-<h2 align="center">Tecnologias que uso no meu dia</h2>
+<h2 align="center">Tecnologias que utilizo</h2>
 
 ###
 
@@ -28,15 +40,14 @@
 
 ###
 
-###
-
 <h2 align="center">Sobre mim</h2>
 
 ###
 
 <p align="center">
 📚 Atualmente estou aprendendo Python
-🎯 Objetivos: Melhorar habilidades em Análise de Dados
 </p>
 
-###
+<p align="center">
+🎯 Objetivos: Melhorar habilidades em Análise de Dados
+</p>

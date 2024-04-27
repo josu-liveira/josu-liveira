@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="40" alt="python logo"  />
+  <img src="https://www.svgrepo.com/show/354238/python.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="excel logo"  />
   <img width="12" />

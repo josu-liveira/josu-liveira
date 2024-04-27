@@ -45,9 +45,9 @@
 ###
 
 <p align="center">
-📚 Atualmente estou aprendendo Python
+  <strong>• Atualmente estou aprendendo Python voltado para Análise de Dados</strong>
 </p>
 
 <p align="center">
-🎯 Objetivos: Melhorar habilidades em Análise de Dados
+  <strong>• Tenho como hobby realizar alguns estudos e desenvolvimentos com APIs RESTful usando Node.js</strong>
 </p>

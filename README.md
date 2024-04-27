@@ -34,8 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="ps logo"  />
-  <img width="12" />
 </div>
 
 ###

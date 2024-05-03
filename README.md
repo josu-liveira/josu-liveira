@@ -44,7 +44,7 @@
 ###
 
 <p align="center">
-  <strong>• Atualmente estou aprendendo Python voltado para Análise de Dados</strong>
+  <strong>• Atualmente estou aprendendo Python voltado para Ciência de Dados</strong>
 </p>
 
 <p align="center">

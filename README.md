@@ -48,5 +48,5 @@
 </p>
 
 <p align="center">
-  <strong>• Tenho como hobby realizar alguns estudos e desenvolvimentos com APIs RESTful usando Node.js</strong>
+  <strong>• Tenho como hobby realizar estudos e desenvolvimentos back-end de APIs RESTful usando Node.JS</strong>
 </p>

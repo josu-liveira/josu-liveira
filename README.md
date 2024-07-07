@@ -50,5 +50,5 @@
 </p>
 
 <p align="center">
-  <strong>• Tenho como hobby realizar estudos e desenvolvimentos back-end de APIs RESTful usando Node.JS</strong>
+  <strong>• Realizo estudos e desenvolvimentos back-end de APIs RESTful usando Node.JS</strong>
 </p>

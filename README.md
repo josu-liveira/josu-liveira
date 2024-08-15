@@ -29,8 +29,6 @@
 <div align="center">
   <img src="https://www.svgrepo.com/show/354238/python.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="excel logo"  />
-  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -46,9 +44,5 @@
 ###
 
 <p align="center">
-  <strong>• Atualmente estou aprendendo Python voltado para Ciência de Dados</strong>
-</p>
-
-<p align="center">
-  <strong>• Realizo estudos e desenvolvimentos back-end de APIs RESTful usando Node.JS</strong>
+  <strong>• Estou constantemente aprimorando meus conhecimentos em back-end e DevOps</strong>
 </p>

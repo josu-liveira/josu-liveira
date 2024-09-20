@@ -22,8 +22,6 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" height="50" alt="golang logo"  />
-  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50" alt="react logo"  />
@@ -32,11 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
   <img src="https://www.svgrepo.com/show/354238/python.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle logo"  />
   <img width="12" />
 
 </div>

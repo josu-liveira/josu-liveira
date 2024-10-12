@@ -17,7 +17,7 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josu-liveira&layout=compact&hide_border=true&custom_title=Linguagens+mais+usadas&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
-<h2 align="center">Habilidades</h2>
+<h2 align="center">Tecnologias</h2>
 
 ###
 
@@ -34,18 +34,3 @@
   <img width="12" />
 
 </div>
-
-
- 
-
-###
-
-<h2 align="center">Sobre mim</h2>
-
-###
-
-<p align="center">
-  <strong>• Estou constantemente aprimorando meus conhecimentos em back-end e DevOps</strong>
-<p align="center">
-  <strong>• Atualmente aprendendo Golang para maior performance</strong>
-</p>

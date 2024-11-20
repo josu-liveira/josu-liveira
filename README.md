@@ -1,9 +1,9 @@
 ###
-<h2 align="center">Olá! Seja bem vindo ao meu perfil!</h2>
+<h2 align="center">Hello! Welcome to my profile</h2>
 
 
 <p>
-  <strong>Histórico de contribuições e outras informações</strong>
+  <h3>History of activities</h3>
 </p>
 
 
@@ -18,7 +18,7 @@
 
 ###
 
-## Tecnologias
+## Tecnologies
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>

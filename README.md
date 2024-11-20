@@ -23,7 +23,7 @@
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
+    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -49,6 +49,6 @@
   <div style="flex-basis: 48%;">
     <h3>Tools</h3>
     <img align="center" alt="Docker" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="scikit_learn" height="35" width="35"/>
-    <img width="9" />
+    <img width="12" />
     <img align="center" alt="Oracle" height="35" width="35" src="https://pbs.twimg.com/profile_images/1533830901800615936/FMaKZbh-_400x400.png">
   </div>
